@@ -2,3 +2,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+theme: jekyll-theme-time-machine
